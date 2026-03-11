@@ -1,5 +1,5 @@
 🤖 Predicción de Cancelación de Clientes – Telecom X (Machine Learning)
-📌 Descripción del proyecto
+
 
 Este proyecto forma parte del challenge de ciencia de datos de Alura LATAM dentro del programa Oracle Next Education.
 
